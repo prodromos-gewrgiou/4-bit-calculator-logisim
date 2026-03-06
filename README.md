@@ -20,6 +20,6 @@ Features:
 
 ## Installation
 
-1. Install Logisim Evolution
+1. Install Logisim Evolution: https://github.com/logisim-evolution/logisim-evolution
 2. Download the `.circ` file from this repository
 3. Open it using Logisim Evolution
